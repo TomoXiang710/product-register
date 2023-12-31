@@ -1,0 +1,6 @@
+[submodule "sub-product-register"]
+	path = sub-product-register
+	url = https://github.com/TomoXiang710/sub-product-register.git
+[submodule "sub-product-register2"]
+	path = sub-product-register2
+	url = https://github.com/TomoXiang710/sub-product-register2.git
